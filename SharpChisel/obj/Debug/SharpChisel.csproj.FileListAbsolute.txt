@@ -1,0 +1,7 @@
+C:\Users\intruder\source\repos\SharpChisel\SharpChisel\bin\Debug\SharpChisel.exe.config
+C:\Users\intruder\source\repos\SharpChisel\SharpChisel\bin\Debug\SharpChisel.exe
+C:\Users\intruder\source\repos\SharpChisel\SharpChisel\bin\Debug\SharpChisel.pdb
+C:\Users\intruder\source\repos\SharpChisel\SharpChisel\obj\Debug\SharpChisel.csproj.CoreCompileInputs.cache
+C:\Users\intruder\source\repos\SharpChisel\SharpChisel\obj\Debug\SharpChisel.csproj.Fody.CopyLocal.cache
+C:\Users\intruder\source\repos\SharpChisel\SharpChisel\obj\Debug\SharpChisel.exe
+C:\Users\intruder\source\repos\SharpChisel\SharpChisel\obj\Debug\SharpChisel.pdb
